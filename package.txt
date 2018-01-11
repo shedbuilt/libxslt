@@ -1,5 +1,5 @@
 NAME=libxslt
 VERSION=1.1.32
-REVISION=1
+REVISION=2
 SRC=http://xmlsoft.org/sources/libxslt-1.1.32.tar.gz
 SRCMD5=1fc72f98e98bf4443f1651165f3aa146
